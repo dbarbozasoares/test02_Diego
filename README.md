@@ -2,14 +2,14 @@ Student Name: Diego Barboza Soares
 Student email: dbarboza-soares@myseneca.ca  
 Date created: 04-OCT-2024
 
-GITHUB URL: https://github.com/dbarbozasoares/web322_assignment
+GITHUB URL: https://github.com/dbarbozasoares/test02_Diego
 
 VERCEL URL:
-web322-assignment-snowy.vercel.app
+test02-diego.vercel.app
 
-web322-assignment-git-main-diego-barboza-soares-projects.vercel.app
+test02-diego-git-main-diego-barboza-soares-projects.vercel.app
 
-web322-assignment-rk3lk8omw-diego-barboza-soares-projects.vercel.app
+test02-diego-kfctmqg5u-diego-barboza-soares-projects.vercel.app
 
 ### Technology Stack
 
