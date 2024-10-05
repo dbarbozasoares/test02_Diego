@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(152, 223, 202, 0.356);
+}
+#header_cars{
+    text-align: center;
+    font-size: 25px;
+    background-color: azure;
+    border-radius: 40%;
+}
+.cars_brand button{
+    padding: 10px;
+    font-size: 20px;
+    width: 200px;
+
+}
+.cars_brand button:hover{
+    border: 2px blue solid;
+    background-color: rgba(0, 0, 255, 0.329);
+}
+.cars_brand{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 350px;
+    height: 250px;
+    padding: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#cars_area{
+    display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: darkgrey    ;
+}

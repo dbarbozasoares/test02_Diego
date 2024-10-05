@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(95, 158, 160, 0.76);
+    text-align: center;
+}
+#home_page{
+    text-align: center;
+    font-size: 35px;
+    background-color: azure;
+    border-radius: 40%;
+    font-family: monospace;
+}
+button{
+    font-size: 23px;
+    background-color:forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 40%;
+    color: rgba(255, 255, 255, 0.808);
+}
+button:hover{
+    background-color: rgba(172, 255, 47, 0.616);
+}
+.ipsom{
+    padding: 5%;
+    font-size: 20px;
+    border: 2px black groove;
+}
+footer{
+    border: 1px black solid;
+    font-size: 16px;
+    background-color: rgba(250, 235, 215, 0.692);
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "test02": "file:"
+  },
+  "name": "test02",
+  "version": "1.0.0",
+  "description": "Test02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego B Soares",
+  "license": "ISC"
+}
